@@ -1,2 +1,2 @@
 # Pokemon-Downloader
-Download Pokemon through CLI
+Download Pokemon stats, sprites and artworks through CLI
